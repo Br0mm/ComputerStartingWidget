@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComputerStartingWidget</string>
+    <string name="start">Start!</string>
+    <string name="save">Save!</string>
+    <string name="router_offline">Troubles: router is offline!</string>
+    <string name="json_troubles">Troubles with json!</string>
+    <string name="insert_mac_address">Insert mac address!</string>
+</resources>
